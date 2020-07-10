@@ -20,7 +20,7 @@ credit.c
 
 given a card (debit or credit) number, it reports whenever is a VALID number and, if so, also report if it's an "AMEX", "VISA" or "MASTERCARD" number.
 
-e.g.: 
-$ ./credit
-Number: 4003600000000014
-VISA
+e.g.: </br>
+$ ./credit </br>
+Number: 4003600000000014 </br>
+VISA"
